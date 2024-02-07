@@ -1,1 +1,20 @@
-D
+Datenbanknen
+
+Normalisierung in die 1. Normalform (1NF)
+
+Die 1NF ist die grundlegendste Normalform und besagt, dass jede Tabelle nur atomare Werte (keine Arrays oder Objekte) enthalten darf und jeder Datensatz eindeutig identifizierbar sein muss.
+
+Normalisierung in die 2. Normalform (2NF)
+Die 2NF baut auf der 1NF auf und besagt, dass alle nicht-primären Attribute in einer Tabelle von einem vollständigen Primärschlüssel abhängen müssen.
+
+Normalisierung in die 3. Normalform (3NF)
+Die 3NF baut auf der 2NF auf und besagt, dass keine transitiven Abhängigkeiten zwischen Attributen in einer Tabelle existieren dürfen.
+
+Vorteile der Normalisierung
+
+Die Normalisierung einer Datenbank bietet mehrere Vorteile:
+
+Reduzierung von Redundanzen: Durch die Normalisierung werden redundante Daten entfernt, was Speicherplatz spart und die Aktualisierung der Daten vereinfacht.
+Vermeidung von Inkonsistenzen: Die Normalisierung hilft, Inkonsistenzen in den Daten zu vermeiden, da jedes Datum nur an einer Stelle gespeichert wird.
+Verbesserung der Performance: Die Normalisierung kann die Performance von Datenbankabfragen verbessern, da die Daten effizienter organisiert sind.
+Erhöhung der Flexibilität: Die Normalisierung macht die Datenbank flexibler und skalierbarer, da neue Daten und Beziehungen leichter hinzugefügt werden können.
