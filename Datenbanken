@@ -18,3 +18,6 @@ Reduzierung von Redundanzen: Durch die Normalisierung werden redundante Daten en
 Vermeidung von Inkonsistenzen: Die Normalisierung hilft, Inkonsistenzen in den Daten zu vermeiden, da jedes Datum nur an einer Stelle gespeichert wird.
 Verbesserung der Performance: Die Normalisierung kann die Performance von Datenbankabfragen verbessern, da die Daten effizienter organisiert sind.
 Erhöhung der Flexibilität: Die Normalisierung macht die Datenbank flexibler und skalierbarer, da neue Daten und Beziehungen leichter hinzugefügt werden können.
+
+
+https://www.studocu.com/de/document/hochschule-fur-angewandte-wissenschaften-hamburg/relationale-datenbanken/essay-relationale-datenbanken-note-10/4160427
