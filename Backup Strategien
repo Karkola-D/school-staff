@@ -1,1 +1,31 @@
 https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Daten-sichern-verschluesseln-und-loeschen/Datensicherung-und-Datenverlust/Datensicherung-wie-geht-das/datensicherung-wie-geht-das_node.html
+
+Volldatensicherung
+Stufenweise Datensicherung
+Differentielle Datensicherung
+Backup-Software
+
+Eine Volldatensicherung, auch Komplettsicherung genannt,
+ist ein Verfahren zur Datensicherung, bei dem alle Daten zu einem bestimmten Zeitpunkt
+vollständig kopiert und auf einem externen Datenträger gespeichert werden.
+
+Ziel einer Volldatensicherung ist es, einen vollständigen Abbild des Systems oder der zu sichernden Daten zu erstellen,
+so dass diese im Falle eines Datenverlustes vollständig wiederhergestellt werden können.
+
+Vorteile einer Volldatensicherung:
+
+Hohe Datensicherheit: Durch die vollständige Kopie aller Daten ist eine hohe Datensicherheit gewährleistet.
+Einfache Wiederherstellung: Die Wiederherstellung der Daten ist relativ einfach, da nur die letzte Volldatensicherung benötigt wird.
+Geringes Risiko von Datenverlusten: Das Risiko von Datenverlusten ist gering, da alle Daten gesichert werden.
+Nachteile einer Volldatensicherung:
+
+Hoher Zeitaufwand: Die Erstellung einer Volldatensicherung kann je nach Datenmenge sehr zeitaufwändig sein.
+Hoher Speicherplatzbedarf: Volldatensicherungen benötigen viel Speicherplatz, da alle Daten vollständig kopiert werden.
+Keine Sicherung von Änderungen seit der letzten Sicherung: Änderungen, die seit der letzten Volldatensicherung an den Daten vorgenommen wurden, gehen verloren, wenn nur die Volldatensicherung wiederhergestellt wird.
+Wann sollte eine Volldatensicherung durchgeführt werden?
+
+Regelmäßig: Es ist empfehlenswert, regelmäßig Volldatensicherungen durchzuführen, z. B. wöchentlich oder monatlich.
+Nach größeren Änderungen: Nach größeren Änderungen an den Daten, z. B. der Installation neuer Software oder Hardware, sollte eine Volldatensicherung durchgeführt werden.
+Vor wichtigen Ereignissen: Vor wichtigen Ereignissen, z. B. einem Systemupdate oder einem Umzug, sollte eine Volldatensicherung durchgeführt werden.
+Verfahren zur Durchführung einer Volldatensicherung:
+
