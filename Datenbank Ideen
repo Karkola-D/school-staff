@@ -11,3 +11,14 @@ Fahrer --> fährt --> LKW --:> ist zugeordnet --> Werksatt --:> unterhält Unter
                                                           --> arbeitet --> Mechaniker --:> skill --> Reparaturarbeit 
 
 
+
+Bestellnummer	Kundennummer	Kundenname	Lieferadresse	Artikelnummer	Artikelbezeichnung	Menge	Preis
+1	123	Müller	Hauptstraße 5, 12345 Musterstadt	A123	Schraubensatz	10	12,50
+1	123	Müller	Hauptstraße 5, 12345 Musterstadt	B456	Hammer	5	8,99
+2	345	Schmidt	Bahnhofstraße 10, 56789 Musterdorf	A123	Schraubensatz	15	12,50
+2	345	Schmidt	Bahnhofstraße 10, 56789 Musterdorf	C789	Bohrmaschine	1	49,90
+
+LKWs (Marke, Modell, Kennzeichen)
+Kundeninformationen (Name, Adresse, Kontaktinformationen)
+LKWs an Kunden (Verleihdatum, Rückgabedatum, Kilometerstand)
+
